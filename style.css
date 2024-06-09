@@ -35,7 +35,7 @@ body {
     display: flex;
     justify-content: center;
     align-items: center;
-    width: 600px;
+    width: 500px;
     height: 1500px;
     box-shadow: 0 0 60px rgb(51, 253, 6);
     border-radius: 10px;
